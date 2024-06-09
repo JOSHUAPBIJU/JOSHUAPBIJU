@@ -1,6 +1,8 @@
 **About Me 👋**
 
-Hi I'm a Master's student in Computer Science at FH Schmalkalden University of Applied Sciences, focusing on Cybersecurity. Passionate about protecting digital information, I love exploring new security technologies. Check out my projects and feel free to connect!
+Hi I'm a Master's student in Computer Science at FH Schmalkalden University of Applied Sciences, focusing on Cybersecurity. Passionate about protecting digital information, I love exploring new security technologies. Check out my projects and feel free to connect! 
+
+**Working on new updates...**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-porunnedath-biju-1219a720b/)
 
