@@ -4,7 +4,7 @@ Hi! I'm a Master's student in Computer Science at FH Schmalkalden University of 
 
 **Technology suite**
 ```
-python
+Python
 ```
 ```
 LINUX
