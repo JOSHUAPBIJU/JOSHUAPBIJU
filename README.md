@@ -5,6 +5,9 @@ Hi I'm a Master's student in Computer Science at FH Schmalkalden University of A
 **Working on new updates...**
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshua-porunnedath-biju-1219a720b/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=Firefox&logoColor=white)](https://joshuapbiju.netlify.app/)
+
+
 
 **Digital Suite💻🛠️**
 
