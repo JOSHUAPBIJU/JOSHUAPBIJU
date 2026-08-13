@@ -10,7 +10,7 @@ I combine hands-on experience in **GRC, IAM, and ISMS operations** with a genuin
 
 ## 🌍 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuaporunnedathbiju/)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=Firefox&logoColor=white)](https://joshuapbiju.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joshuaporunnedathbiju/)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=Firefox&logoColor=white)](https://joshuaporunnedathbiju.bolt.host)
 
 ---
 
@@ -52,19 +52,13 @@ I combine hands-on experience in **GRC, IAM, and ISMS operations** with a genuin
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)  ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=plastic&logo=flask&logoColor=white)
 
----
-
-## 📈 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joshuapbiju&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joshuapbiju&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📬 Let's Connect:
 
 - ✉️ **Email:** *mrjoshuapbiju@gmail.com*
-- 🌍 **Portfolio:** [joshuapbiju.netlify.app](https://joshuapbiju.netlify.app/)
+- 🌍 **Portfolio:** [joshuaporunnedathbiju.bolt.host](https://joshuaporunnedathbiju.bolt.host)
 - 💼 **LinkedIn:** [linkedin.com/in/joshuaporunnedathbiju](https://www.linkedin.com/in/joshuaporunnedathbiju/)
 
 [![](https://visitcount.itsvg.in/api?id=JOSHUA&label=Profile%20View%20&color=5&icon=5&pretty=false)](https://visitcount.itsvg.in)
